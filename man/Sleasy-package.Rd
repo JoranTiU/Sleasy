@@ -1,6 +1,6 @@
 \name{Sleasy}
 \alias{Sleasy}
-\title{Summaries for Lavaan-objects made Easy}
+\title{Summaries for Lavaan objects made Easy}
 \description{
 This package takes an lavaan object as input and provides relevant
 (change in) fit information in a clear manner and also provides interpretations
@@ -17,6 +17,7 @@ Maintainer: Dr. L.V.D.E. Vogelsmeier <l.v.d.e.vogelsmeier@tilburguniveristy.edu>
 
 \references{
   Main literature:
+
   Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. A. Bollen & S. J. Long (Eds.), Testing    structural equation models (pp. 136–162). Sage.
 
   Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. Structural Equation Modeling:   A Multidisciplinary Journal, 14(3), 464–504. https://doi.org/10.1080/10705510701301834
