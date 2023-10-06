@@ -1,5 +1,5 @@
-\name{Sleasy}
-\alias{Sleasy}
+\name{sleasy}
+\alias{sleasy}
 \title{Summaries for Lavaan objects made Easy}
 \description{
 This package takes an lavaan object as input and provides relevant

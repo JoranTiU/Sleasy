@@ -1,6 +1,6 @@
-Package: Sleasy
+Package: sleasy
 Type: Package
-Title: Summaries for Lavaan models made Easy (Sleasy)
+Title: Summaries for Lavaan models made Easy (sleasy)
 Version: 0.1.0
 Author: Dr. L.V.D.E. Vogelsmeier & Dr. J. Jongerling
 Maintainer: Dr. L.V.D.E. Vogelsmeier <l.v.d.e.vogelsmeier@tilburguniveristy.edu> and Dr. J. Jongerling <j.jongerling@tilburguniveristy.edu>
